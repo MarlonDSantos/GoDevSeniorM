@@ -3,7 +3,11 @@
 
 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo? O projeto foi feito pelo Eclipse-workspace - Spling Tool Suit4 Para os testes de sincronização com banco de dados foi utilizando Postman Para armazenamento do Banco de dados foi utilizando PostgreSQL
+ O projeto foi desenvolvido via Eclipse-workspace - Spling Tool Suit4, 
+ 
+ Para os testes de sincronização com banco de dados foi utilizando Postman e 
+ 
+ Para armazenamento do Banco de dados foi utilizando PostgreSQL
 
 🔧 Instalação
 
